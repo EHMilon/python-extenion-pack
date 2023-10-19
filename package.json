@@ -1,0 +1,22 @@
+{
+  "name": "python-extension-pack",
+  "displayName": ".Python Extension Pack",
+	"description": "Python development environment for VSCode. Essantioal extension Python, Pylance, isort",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Extension Packs"
+	],
+	"publisher": "EH.Milon",
+	"extensionPack": [
+		"ms-python.isort",
+		"ms-python.python",
+		"ms-python.vscode-pylance"
+	],
+	"__metadata": {
+		"installedTimestamp": 1681877799320
+	}
+}
